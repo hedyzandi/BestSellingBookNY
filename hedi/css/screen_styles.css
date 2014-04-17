@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+body {
+	color: #575c7a;
+	line-height: 1.5em;
+	font-family: Arial;
+	font-size: 14px;
+	background: #515673 url(../images/background_gradient.jpg) repeat-x 0px 0px;
+}
+.page {
+	max-width: 980px;
+	margin: 0px auto;
+	position: relative; background-color: #fff;
+}
+
+p { margin: 0px 0px 2em 0px; }
+a { color: #de9000; }
+a:hover { color: #009eff; }
+
+
+.clear-fix { clear: both; line-height: 1px; }
+
+
+

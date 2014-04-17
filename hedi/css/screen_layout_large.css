@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* Layout Large Screens */
+
+body { margin: 0px; padding: 0px; }
+header a.logo { display: block; position: absolute; background-position: 0px 0px; background-repeat: no-repeat; }
+
+
+
+header { height: 275px; background: url(../images/banner_large.jpg) no-repeat right 0px; }
+header a.logo { width: 150px; height: 85px; top: 28px; right: 30px; background-image: url(../images/logo1_large.png); }
+
+article { padding: 60px 20px 10px 20px; }
